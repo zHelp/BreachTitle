@@ -1,0 +1,8 @@
+name: "BreachTitle"
+main: me.mrten.breachtitle.BreachTitle
+author: Mrten
+version: "1.0"
+prefix: "BreachTitle"
+commands:
+  title:
+    description: Set your title.
